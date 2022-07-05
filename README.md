@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/dsosa0440/Space%20Game%20-%20web/_apis/build/status/dsosa11.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/dsosa0440/Space%20Game%20-%20web/_build/latest?definitionId=2&branchName=build-pipeline)
+[![Build Status](https://dev.azure.com/dsosa0440/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/dsosa0440/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=3&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
